@@ -1,0 +1,49 @@
+.a{
+    position:absolute;
+    right:0;
+    top:200px;
+    height:500px;
+    width:500px;
+    background-color: gainsboro;
+    font-size: 15px;
+}
+
+.b{
+    position:absolute;
+    right:0;
+    top:800px;
+    height:500px;
+    width:500px;
+    background-color: gainsboro;
+    font-size: 15px;
+}
+
+.c{
+    position:absolute;
+    right:450;
+    top:800px;
+    height:550px;
+    width:500px;
+    background-color: gainsboro;
+    font-size: 15px;
+}
+
+.d{
+    position:absolute;
+    right:0;
+    top:1400px;
+    height:550px;
+    width:500px;
+    background-color: gainsboro;
+    font-size: 15px;
+}
+
+.e{
+    position:absolute;
+    right:450;
+    top:1400px;
+    height:500px;
+    width:500px;
+    background-color: gainsboro;
+    font-size: 15px;
+}
